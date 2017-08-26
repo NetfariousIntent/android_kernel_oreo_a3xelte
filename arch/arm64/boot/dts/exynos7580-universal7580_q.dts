@@ -10,7 +10,7 @@
  */
 
 /dts-v1/;
-#include "exynos7580-q.dtsi"
+#include "exynos7580.dtsi"
 
 / {
 	model = "Samsung Universal7580 board based on EXYNOS7580";
